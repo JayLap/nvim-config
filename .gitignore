@@ -1,0 +1,9 @@
+# Editor / OS junk
+*.swp
+*.swo
+.netrwhist
+.DS_Store
+Thumbs.db
+
+# Machine-specific overrides (never commit)
+lua/local.lua
